@@ -8,3 +8,4 @@
 # Armazenamento do resultado do IMC no estado com setIMC.
 # Renderização condicional do IMC (só aparece após o cálculo).
 # Estruturação do código JSX com campos de entrada para peso e altura e botão para calcular.
+# Adicionado pagina sobre mim.
